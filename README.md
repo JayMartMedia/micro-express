@@ -4,4 +4,4 @@ This project contains a simple express web app that can be used for testing purp
 
 # Docker
 
-The pre-built docker images are available on the Docker hub for convenience: https://hub.docker.com/repository/docker/jaymartmedia/micro-express/general
+The pre-built docker images are available on the Docker hub for convenience: https://hub.docker.com/r/jaymartmedia/micro-express
